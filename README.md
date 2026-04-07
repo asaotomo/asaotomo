@@ -1,5 +1,7 @@
 ### Hello everyone, I am Asaotomo from Hx0TEAM 👋
 
+[💝 爱发电创作者](https://ifdian.net/a/asaotomo)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=asaotomo&label=Visitors&color=blueviolet&style=flat" alt="Visitors">
 </p>
