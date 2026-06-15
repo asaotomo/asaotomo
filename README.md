@@ -4,6 +4,8 @@
 
 [💼 Hx0工作室-产品矩阵](https://www.hx0.store/#products)
 
+[📺 Hx0工作室-B站官方账号](https://space.bilibili.com/24698992)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=asaotomo&label=Visitors&color=blueviolet&style=flat" alt="Visitors">
 </p>
